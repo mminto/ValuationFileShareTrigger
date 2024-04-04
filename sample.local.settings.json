@@ -1,0 +1,10 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "EVENT_HUB_CONNECTION_STRING": "Endpoint=sb://xxxxxxxx.servicebus.windows.net/;SharedAccessKeyName=xxxxxxxxx;SharedAccessKey=xxxxxxxx",
+    "LOGIC_APP_URL": "https://prod-22.australiaeast.logic.azure.com:443/workflows/xxxxxxxxxx",
+    "TARGET_DIRECTORY": "/reports"
+  }
+}
